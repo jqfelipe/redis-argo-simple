@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-org/your-repo.git
+    repoURL: https://github.com/jqfelipe/redis-argo-simple.git
     targetRevision: main
     path: manifests
   destination:
